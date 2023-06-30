@@ -5,9 +5,9 @@ A website contains many delicious food restaurants, you can search for your favo
 ## Features
 
 -   Show all restaurants
--   Check restaurant info.
--   Search restaurants by name.
--   Search restaurants by categories.
+-   Check restaurant information
+-   Search restaurants by name
+-   Search restaurants by categories
 
 ## Environment requirements
 
