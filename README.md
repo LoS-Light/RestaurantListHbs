@@ -21,7 +21,7 @@ A website contains many delicious food restaurants, you can search for your favo
 git clone https://github.com/LoS-Light/RestaurantListHbs.git
 ```
 
-2. Move to the RestaurantList directory
+2. Move to the RestaurantListHbs directory
 
 ```
 cd RestaurantListHbs
